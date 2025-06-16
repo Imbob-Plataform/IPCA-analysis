@@ -1,0 +1,12 @@
+# Manipulação e análise de dados
+pandas
+
+# Visualização de dados
+matplotlib
+seaborn
+
+# Jupyter Notebook
+notebook
+
+# (Opcional) Exportação de relatório para HTML/PDF
+jupyter_contrib_nbextensions
